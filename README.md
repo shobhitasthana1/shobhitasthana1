@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Shobhit Asthana
 
-<!--
-**shobhitasthana1/shobhitasthana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🎓 MCA Student  
+📍 Kanpur, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m learning **React, Node.js and Modern JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- ⚡ Fun fact: I love building creative UI projects
+
+---
+
+## 🛠 Tech Stack
+
+HTML  
+CSS  
+JavaScript  
+React  
+Node.js  
+MongoDB  
+
+---
+
+## 📂 Featured Projects
+
+🔹 Deadpool UI Chaos  
+🔹 Apple Website Clone  
+🔹 Creative Web Projects  
+
+---
+
+## 📊 GitHub Stats
+
+![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=shobhitasthana1&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+📧 Email: shobhitasthana123@gmail.com
