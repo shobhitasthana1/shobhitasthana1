@@ -337,6 +337,10 @@ status:
      CONTRIBUTION SNAKE
 ════════════════════════════════════════════════════════════ -->
 
+<!-- ═══════════════════════════════════════════════════════════
+     CONTRIBUTION SNAKE (NEON / GRADIENT)
+════════════════════════════════════════════════════════════ -->
+
 ## 🐍 Contribution Snake
 
 <br/>
@@ -344,21 +348,24 @@ status:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg?color_snake=blue">
-          
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake.svg?color_snake=blue">
 
+  <!-- Dark Mode -->
+  <source media="(prefers-color-scheme: dark)" 
+  srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
+
+  <!-- Light Mode -->
+  <source media="(prefers-color-scheme: light)" 
+  srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake.svg?palette=github-dark"/>
+
+  <!-- Fallback -->
   <img alt="github contribution snake animation"
-       src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg?color_snake=blue">
+  src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 
 </picture>
 
 </div>
 
 <br/>
-
 
 <!-- ═══════════════════════════════════════════════════════════
      GITHUB ACTIVITY GRAPH
