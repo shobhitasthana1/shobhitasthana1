@@ -37,51 +37,83 @@
 
 <br/>
 
-<!-- HOLOGRAPHIC PROFILE CARDS — 3 COLUMN HUD -->
-<table border="0" width="90%" cellspacing="8">
+<!-- HOLOGRAPHIC PROFILE CARDS — DASHBOARD + 3 BOXES -->
+
+<table border="0" width="90%" cellspacing="8" align="center">
+
+<!-- Row 1 : Dashboard Title -->
 <tr>
-<td width="33%" align="center">
+<td colspan="3" align="center">
+
 
 ```
-╔══════════════════╗
-║   DEV PROFILE    ║
-╠══════════════════╣
-║ 🎓 MCA Student   ║
-║ 📍 Kanpur, UP    ║
-║ 🌐 MERN Stack    ║
-║ ⚡ Always coding ║
-╚══════════════════╝
-```
+╔════════════════════════════════════════════════════════════╗
+║                   DEVELOPER DASHBOARD                      ║
+╚════════════════════════════════════════════════════════════╝
 
-</td>
-<td width="33%" align="center">
+
 
 ```
-╔══════════════════╗
-║   CURRENT OPS    ║
-╠══════════════════╣
-║ 🔨 Building Apps ║
-║ 📖 Learning DSA  ║
-║ 🤝 Open Collab   ║
-║ 🚀 Seeking Roles ║
-╚══════════════════╝
-```
+
 
 </td>
+</tr>
+
+<!-- Row 2 : Three Boxes -->
+<tr>
+
 <td width="33%" align="center">
 
+
 ```
-╔══════════════════╗
-║   POWER STATS    ║
-╠══════════════════╣
-║ ☕ Coffee: ∞     ║
-║ 🐛 Bugs Fixed:++ ║
-║ 💡 Ideas: Always ║
-║ 😴 Sleep: Maybe  ║
-╚══════════════════╝
+╔══════════════════════╗
+║  DEVELOPER PROFILE   ║
+╠══════════════════════╣
+║ Name      : Shobhit  ║
+║ Role      : MCA Stud.║
+║ Location  : Kanpur   ║
+║ Stack     : MERN Dev ║
+╚══════════════════════╝
 ```
 
+
 </td>
+
+<td width="33%" align="center">
+
+
+```
+╔══════════════════════╗
+║   CURRENT MISSION    ║
+╠══════════════════════╣
+║ Building Web Apps    ║
+║ Learning React       ║
+║ Improving DSA        ║
+║ Open Collaboration   ║
+╚══════════════════════╝
+```
+
+
+</td>
+
+<td width="33%" align="center">
+
+
+```
+╔══════════════════════╗
+║     DEV METRICS      ║
+╠══════════════════════╣
+║ Commits  : Growing   ║
+║ BugsFix  : Daily     ║
+║ Projects : Active    ║
+║ Coffee   : Required  ║
+╚══════════════════════╝
+
+```
+
+
+</td>
+
 </tr>
 </table>
 
