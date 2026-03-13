@@ -232,11 +232,11 @@ status:
 
 <div align="center">
 
-<a href="https://github.com/shobhitasthana1/deadpool-ui-chaos">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=deadpool-ui-chaos&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
+<a href="https://github.com/shobhitasthana1/shobhit-portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=shobhit-portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
 </a>
-<a href="https://github.com/shobhitasthana1/apple-website-clone">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=apple-website-clone&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
+<a href="https://github.com/shobhitasthana1/ShobhitDev-Store">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=ShobhitDev-Store&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
 </a>
 
 </div>
@@ -246,11 +246,10 @@ status:
 <div align="center">
 
 | Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| 💥 **Deadpool UI Chaos** | Chaotic animations & interactive UI inspired by Deadpool's fourth-wall breaking style | `HTML` `CSS` `JS` | [Repo](https://github.com/shobhitasthana1/deadpool-ui-chaos) |
-| 🍎 **Apple Website Clone** | Pixel-perfect recreation of Apple's landing page with responsive design | `HTML` `CSS` `JS` | [Repo](https://github.com/shobhitasthana1/apple-website-clone) |
-| 🎨 **Creative Web Experiments** | Experimental UI components exploring advanced CSS & JS techniques | `HTML` `CSS` `JS` | [View](https://github.com/shobhitasthana1) |
-| 🔐 **MERN Auth App** *(In Progress)* | Full-stack auth system with JWT, protected routes & MongoDB | `React` `Node.js` `Express` `MongoDB` | Coming Soon |
+|--------|-------------|-------|------|
+| 🌐 **Developer Portfolio** | My personal portfolio website showcasing projects, skills, and web development journey with a modern UI and interactive design. | `HTML` `CSS` `JavaScript` | [Live](https://shobhit-portfolio-nu.vercel.app/) • [Repo](https://github.com/shobhitasthana1/shobhit-portfolio) |
+| 🛒 **ShobhitDev Ecommerce Store** | Modern frontend ecommerce store with product UI, interactive components, and animated particle background. | `HTML` `CSS` `JavaScript` `Particles.js` | [Live](https://shobhit-dev-store.vercel.app/) • [Repo](https://github.com/shobhitasthana1/ShobhitDev-Store) |
+| ☀️ **SOI Solar Website** | Responsive business website for a solar energy company with clean layout and service-focused design. | `HTML` `CSS` `JavaScript` | [Live](https://soi-solar-website.vercel.app/) • [Repo](https://github.com/shobhitasthana1/soi-solar-website) |
 
 </div>
 
