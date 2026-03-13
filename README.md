@@ -233,10 +233,11 @@ status:
 <div align="center">
 
 <a href="https://github.com/shobhitasthana1/shobhit-portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=shobhit-portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=shobhit-portfolio&theme=github_dark&hide_border=true&hide=language&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
 </a>
+
 <a href="https://github.com/shobhitasthana1/ShobhitDev-Store">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=ShobhitDev-Store&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=ShobhitDev-Store&theme=github_dark&hide_border=true&hide=language&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
 </a>
 
 </div>
