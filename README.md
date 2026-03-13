@@ -4,136 +4,112 @@
 ║         Full-Stack Developer · MERN · Kanpur, India         ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
---- 
 
-<!-- ═══════════════════════════════════════════════════════════
-     HERO BANNER
-════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════
+     ⚡ HERO — NEURAL TERMINAL × HOLOGRAPHIC HUD
+══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0d1f2d,80:0a2540,100:0070f3&height=260&section=header&text=Shobhit%20Asthana&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20(MERN)%20•%20Building%20Modern%20Web%20Applications&descSize=18&descColor=60a5fa&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:020818,50:020d24,80:041c3a,100:0050cc&height=220&section=header&text=&animation=twinkling" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:0050cc,100:00d4ff&height=110&text=SHOBHIT%20ASTHANA&fontSize=72&fontColor=ffffff&fontAlignY=65&fontAlign=50&stroke=00aaff&strokeWidth=2&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+Kanpur;MERN+Stack+Developer;Building+Modern+Web+Applications;Open+to+Internships+and+Collaborations"/>
+<!-- HUD STATUS ROW -->
+<table border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/%E2%97%89_STATUS-OPEN%20TO%20WORK-39ff14?style=flat-square&labelColor=050505&color=39ff14"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%8C%96_LOCATION-Kanpur%2C%20India-00d4ff?style=flat-square&labelColor=050505&color=00d4ff"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%9A%A1_STACK-MERN%20Full%20Stack-ff6b00?style=flat-square&labelColor=050505&color=ff6b00"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%9B%B0_MODE-Building%20%26%20Shipping-a855f7?style=flat-square&labelColor=050505&color=a855f7"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- TERMINAL TYPING — fixed: ASCII-safe chars, no special unicode in lines param -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=45&lines=%24+whoami+--+Full+Stack+Developer%2C+Kanpur;%24+stack+--+MongoDB+%7C+Express+%7C+React+%7C+Node.js;%24+currently+--+Crafting+Modern+Web+Apps;%24+seeking+--+Internships+%26+Open+Source+Collabs;%24+philosophy+--+Build+Fast.+Break+Bugs.+Ship+Daily." alt="Terminal Typing"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shobhitasthana1&style=flat-square&color=0070f3&label=Profile+Views&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/github/followers/shobhitasthana1?style=flat-square&label=Followers&color=60a5fa&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/MCA%20Student-Allenhouse%20Institute%20of%20Technology%2C%20Kanpur-60a5fa?style=flat-square&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/MERN%20Stack-Developer-0070f3?style=flat-square&labelColor=0d1117"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     TYPING ANIMATION
-════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<!-- NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:0050cc,60:00d4ff,100:000000&height=3&section=header&text=&fontSize=1" width="80%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=60A5FA&center=true&vCenter=true&width=720&height=45&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Modern+Web+Applications;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Open+to+Internships+and+Developer+Opportunities;MCA+Student+%7C+Allenhouse+Institute+of+Technology" alt="Typing SVG"/>
+<!-- HOLOGRAPHIC PROFILE CARDS — 3 COLUMN HUD -->
+<table border="0" width="90%" cellspacing="8">
+<tr>
+<td width="33%" align="center">
 
-</div>
+```
+╔══════════════════╗
+║   DEV PROFILE    ║
+╠══════════════════╣
+║ 🎓 MCA Student   ║
+║ 📍 Kanpur, UP    ║
+║ 🌐 MERN Stack    ║
+║ ⚡ Always coding ║
+╚══════════════════╝
+```
+
+</td>
+<td width="33%" align="center">
+
+```
+╔══════════════════╗
+║   CURRENT OPS    ║
+╠══════════════════╣
+║ 🔨 Building Apps ║
+║ 📖 Learning DSA  ║
+║ 🤝 Open Collab   ║
+║ 🚀 Seeking Roles ║
+╚══════════════════╝
+```
+
+</td>
+<td width="33%" align="center">
+
+```
+╔══════════════════╗
+║   POWER STATS    ║
+╠══════════════════╣
+║ ☕ Coffee: ∞     ║
+║ 🐛 Bugs Fixed:++ ║
+║ 💡 Ideas: Always ║
+║ 😴 Sleep: Maybe  ║
+╚══════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ROLE CYCLING — Orbitron electric blue -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&pause=2000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=%E2%9F%A8+Full+Stack+Developer+%E2%9F%A9;%E2%9F%A8+MERN+Stack+Engineer+%E2%9F%A9;%E2%9F%A8+Open+Source+Builder+%E2%9F%A9;%E2%9F%A8+Modern+Web+Architect+%E2%9F%A9" alt="Role Typing"/>
 
 <br/><br/>
 
+<!-- VISITOR BADGES -->
+<img src="https://komarev.com/ghpvc/?username=shobhitasthana1&style=for-the-badge&color=0050cc&label=NEURAL+HITS&abbreviated=true"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/shobhitasthana1?style=for-the-badge&color=39ff14&labelColor=050505&label=NETWORK"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/shobhitasthana1?style=for-the-badge&color=ff6b00&labelColor=050505&label=STARS"/>
 
+<br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     STATUS BADGES
-════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<a href="mailto:shobhitasthana123@gmail.com">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-0070f3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
-
-<a href="https://allenhouse.ac.in/">
-  <img src="https://img.shields.io/badge/MCA%20Student-Allenhouse%20Institute%20of%20Technology-60a5fa?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-<a href="https://github.com/shobhitasthana1">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-0070f3?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-<a href="https://github.com/shobhitasthana1">
-  <img src="https://komarev.com/ghpvc/?username=shobhitasthana1&style=for-the-badge&color=0070f3&label=Profile%20Views&labelColor=0d1117"/>
-</a>
-
-<a href="https://github.com/shobhitasthana1?tab=followers">
-  <img src="https://img.shields.io/github/followers/shobhitasthana1?style=for-the-badge&color=60a5fa&labelColor=0d1117&label=Followers"/>
-</a>
+<!-- CLOSING VENOM SLASH -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0050cc,50:020d24,80:020818,100:000000&height=80&section=footer&text=&animation=twinkling&reversal=true"/>
 
 </div>
-
-<br/>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
-     TECH STACK ICONS
-════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">⚡ Tech Stack</h3>
-
-<div align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/>
-</a>
-
-<a href="https://react.dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=express" height="50" alt="Express"/>
-</a>
-
-<a href="https://www.mongodb.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/>
-</a>
-
-<a href="https://git-scm.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
-</a>
-
-<a href="https://github.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-</a>
-
-<a href="https://vercel.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel"/>
-</a>
-
-<a href="https://postman.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman"/>
-</a>
-
-<a href="https://figma.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     ABOUT ME — Two-column layout with coding GIF
+     ABOUT ME
 ════════════════════════════════════════════════════════════ -->
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
@@ -142,7 +118,7 @@
 
 I'm a **Full-Stack Developer** and **MCA student** based in **Kanpur, Uttar Pradesh, India**.
 
-I specialize in building modern web applications using the **MERN stack (MongoDB, Express, React, Node.js)** and enjoy creating clean, responsive interfaces combined with scalable backend systems.
+I specialize in building modern web applications using the **MERN stack** and enjoy creating clean, responsive interfaces combined with scalable backend systems.
 
 My focus is on building **practical, user-focused applications** that solve real-world problems while maintaining clean architecture and performance.
 
@@ -157,29 +133,14 @@ I believe great software should be **simple, reliable, and built with purpose.**
 
 <br/>
 
-
 ```yaml
 name: Shobhit Asthana
 role: Full Stack Developer
 location: Kanpur, Uttar Pradesh, India
 education: MCA — Allenhouse Institute of Technology, Kanpur
 
-primary_stack:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Node.js
-  - Express.js
-  - MongoDB
-
-tools:
-  - Git
-  - GitHub
-  - VS Code
-  - Postman
-  - Vercel
-  - Figma
+primary_stack: [ HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB ]
+tools:         [ Git, GitHub, VS Code, Postman, Vercel, Figma ]
 
 interests:
   - Full Stack Development
@@ -189,17 +150,12 @@ interests:
 
 status:
   open_to_work: true
-  internships: welcome
+  internships:  welcome
 ```
 
 <br clear="right"/>
 
 ---
-
-
-<!-- ═══════════════════════════════════════════════════════════
-     TECH STACK — skillicons grouped
-════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════════════════════════════════════════
      TECH STACK
@@ -207,85 +163,48 @@ status:
 
 ## 🛠 Tech Stack
 
-<br/>
-
 <div align="center">
 
-### Frontend Development
+### Frontend
 <p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
-</a>
-<a href="https://react.dev">
 <img src="https://skillicons.dev/icons?i=react" height="50"/>
-</a>
 </p>
 
-### Backend Development
+### Backend & Database
 <p>
-<a href="https://nodejs.org">
 <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-</a>
-<a href="https://expressjs.com">
 <img src="https://skillicons.dev/icons?i=express" height="50"/>
-</a>
-</p>
-
-### Database
-<p>
-<a href="https://mongodb.com">
 <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-</a>
 </p>
 
 ### Tools & Platforms
 <p>
-<a href="https://git-scm.com">
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
-</a>
-<a href="https://github.com">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-<a href="https://code.visualstudio.com">
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-</a>
-<a href="https://postman.com">
 <img src="https://skillicons.dev/icons?i=postman" height="50"/>
-</a>
-<a href="https://vercel.com">
 <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
-</a>
-<a href="https://figma.com">
 <img src="https://skillicons.dev/icons?i=figma" height="50"/>
-</a>
 </p>
 
 </div>
 
-<br/>
-
 ---
+
 <!-- ═══════════════════════════════════════════════════════════
      FEATURED PROJECTS
 ════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
-<br/>
-
-<!-- Pinned repo cards -->
 <div align="center">
 
 <a href="https://github.com/shobhitasthana1/deadpool-ui-chaos">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=deadpool-ui-chaos&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
 </a>
-
 <a href="https://github.com/shobhitasthana1/apple-website-clone">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shobhitasthana1&repo=apple-website-clone&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&border_radius=10"/>
 </a>
@@ -296,16 +215,14 @@ status:
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|-------|-------------|------------|------|
-| 💥 **Deadpool UI Chaos** | A creative frontend project featuring chaotic animations and interactive UI elements inspired by Deadpool's fourth-wall breaking style. | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/shobhitasthana1/deadpool-ui-chaos) |
-| 🍎 **Apple Website Clone** | Pixel-perfect recreation of Apple's landing page focusing on layout accuracy, responsive design, and modern UI techniques. | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/shobhitasthana1/apple-website-clone) |
-| 🎨 **Creative Web Experiments** | A collection of experimental UI components and creative frontend ideas exploring advanced CSS and JavaScript techniques. | `HTML` `CSS` `JavaScript` | [View Projects](https://github.com/shobhitasthana1) |
-| 🔐 **MERN Authentication App** *(In Progress)* | Full-stack authentication system using JWT authentication, protected routes, and MongoDB database with a React frontend. | `React` `Node.js` `Express` `MongoDB` | Coming Soon |
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| 💥 **Deadpool UI Chaos** | Chaotic animations & interactive UI inspired by Deadpool's fourth-wall breaking style | `HTML` `CSS` `JS` | [Repo](https://github.com/shobhitasthana1/deadpool-ui-chaos) |
+| 🍎 **Apple Website Clone** | Pixel-perfect recreation of Apple's landing page with responsive design | `HTML` `CSS` `JS` | [Repo](https://github.com/shobhitasthana1/apple-website-clone) |
+| 🎨 **Creative Web Experiments** | Experimental UI components exploring advanced CSS & JS techniques | `HTML` `CSS` `JS` | [View](https://github.com/shobhitasthana1) |
+| 🔐 **MERN Auth App** *(In Progress)* | Full-stack auth system with JWT, protected routes & MongoDB | `React` `Node.js` `Express` `MongoDB` | Coming Soon |
 
 </div>
-
-<br/>
 
 ---
 
@@ -315,12 +232,9 @@ status:
 
 ## 📊 GitHub Stats
 
-<br/>
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shobhitasthana1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=0070f3&text_color=8b949e&count_private=true&include_all_commits=true"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitasthana1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=8b949e&langs_count=6"/>
 
 <br/><br/>
@@ -329,81 +243,37 @@ status:
 
 </div>
 
-<br/>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
      CONTRIBUTION SNAKE
 ════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE (NEON / GRADIENT)
-════════════════════════════════════════════════════════════ -->
-
 ## 🐍 Contribution Snake
-
-<br/>
 
 <div align="center">
 
 <picture>
-
-  <!-- Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" 
-  srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
-
-  <!-- Light Mode -->
-  <source media="(prefers-color-scheme: light)" 
-  srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake.svg?palette=github-dark"/>
-
-  <!-- Fallback -->
-  <img alt="github contribution snake animation"
-  src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════
-     GITHUB ACTIVITY GRAPH
+     ACTIVITY GRAPH
 ════════════════════════════════════════════════════════════ -->
 
 ## 📈 GitHub Activity
-
-<br/>
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitasthana1&bg_color=0d1117&color=60a5fa&line=0070f3&point=ffffff&area=true&area_color=0a2540&hide_border=true&custom_title=Shobhit%20Asthana%20Contribution%20Timeline"/>
 
 </div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB PROFILE METRICS
-════════════════════════════════════════════════════════════ -->
-
-## 📊 Profile Metrics
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/shobhitasthana1?style=for-the-badge&logo=github&color=0070f3&labelColor=0d1117&label=Total%20Stars"/>
-
-<img src="https://img.shields.io/github/followers/shobhitasthana1?style=for-the-badge&logo=github&color=60a5fa&labelColor=0d1117&label=Followers"/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shobhitasthana1&query=$.public_repos&style=for-the-badge&logo=github&color=0070f3&labelColor=0d1117&label=Public%20Repos"/>
-
-</div>
-
-<br/>
 
 ---
 
@@ -413,22 +283,15 @@ status:
 
 ## 💡 Developer Philosophy
 
-<br/>
-
 ```javascript
 const shobhit = {
-  role: "Full Stack Developer",
+  role:     "Full Stack Developer",
   location: "Kanpur, Uttar Pradesh, India",
 
-  philosophy: "Write clean code, solve real problems, and keep improving every day.",
+  philosophy: "Write clean code, solve real problems, keep improving every day.",
+  focus:      "Full Stack Web Development — MERN Stack",
 
-  focus: "Full Stack Web Development using the MERN Stack",
-
-  currentlyLearning: [
-    "Advanced React Development",
-    "Backend Architecture with Node.js",
-    "System Design Fundamentals"
-  ],
+  currentlyLearning: ["Advanced React", "Backend Architecture", "System Design"],
 
   goals: [
     "Build scalable real-world web applications",
@@ -436,16 +299,9 @@ const shobhit = {
     "Grow as a professional full stack developer"
   ],
 
-  openTo: [
-    "Developer Internships",
-    "Open Source Collaboration",
-    "Freelance Opportunities"
-  ]
+  openTo: ["Developer Internships", "Open Source Collaboration", "Freelance Work"]
 };
-
 ```
-
-<br/>
 
 ---
 
@@ -455,17 +311,13 @@ const shobhit = {
 
 ## 🤝 Let's Connect
 
-<br/>
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 
-<br/>
+<br/><br/>
 
-<b>I'm always open to connecting with developers, collaborators, and tech enthusiasts.</b>
-
-<br/>
+**I'm always open to connecting with developers, collaborators, and tech enthusiasts.**
 
 <sub>Open to internships, collaborations, and developer opportunities.</sub>
 
@@ -474,39 +326,25 @@ const shobhit = {
 <a href="mailto:shobhitasthana123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
-
 <a href="https://github.com/shobhitasthana1">
 <img src="https://img.shields.io/badge/GitHub-shobhitasthana1-ffffff?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
 </a>
-
 <a href="https://www.linkedin.com/in/shobhit-asthana-911799315/">
 <img src="https://img.shields.io/badge/LinkedIn-Shobhit%20Asthana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
-
 <a href="https://x.com/ShobhitAsthanaa">
 <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117"/>
 </a>
-
 <a href="https://www.instagram.com/shobhit_asthana_/">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
 </a>
-
 <a href="https://www.youtube.com/@ShobhitAsthanaa">
 <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117"/>
 </a>
 
 </div>
 
-<br/>
-
-
 ---
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     FOOTER QUOTE
-════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -516,7 +354,7 @@ const shobhit = {
 
 ⭐ <sub>If you find my projects helpful, consider giving them a star. Thanks for visiting!</sub>
 
-<br/><br/>
+<br/>
 
 <sub>Made with 🧡 by <a href="https://github.com/shobhitasthana1">Shobhit Asthana</a></sub>
 
@@ -524,13 +362,5 @@ const shobhit = {
 
 <br/>
 
-
-<!-- ═══════════════════════════════════════════════════════════
-     FOOTER
-════════════════════════════════════════════════════════════ -->
-
+<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0070f3,50:0a2540,100:0d1117&height=110&section=footer&fontColor=60a5fa&fontSize=13&text=shobhitasthana1%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Kanpur%2C%20India&fontAlignY=70&animation=fadeIn"/>
-
-<!-- updated: Thu Mar 12 21:09:46 UTC 2026 -->
-
-<!-- updated: Fri Mar 13 02:30:40 UTC 2026 -->
