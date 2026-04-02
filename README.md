@@ -76,7 +76,17 @@ I'm a **Full-Stack Developer** and **MCA student** at Allenhouse Institute of Te
 ## Contribution Activity
 
 <div align="center">
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitasthana1&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=0d2137&hide_border=true&custom_title=Contribution%20Timeline"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
 </div>
 
 ---
