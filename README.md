@@ -78,14 +78,6 @@ I am a Software Engineer who thrives at the intersection of robust system design
 ### 📊 GitHub Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhitasthana1&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&text_color=8b949e&icon_color=6366f1&bg_color=00000000" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitasthana1&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=8b949e&langs_count=6&bg_color=00000000" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=shobhitasthana1&theme=transparent&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakNum=8b949e&currStreakLabel=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" width="70%" alt="GitHub Streak" />
 </div>
 
@@ -97,16 +89,6 @@ I am a Software Engineer who thrives at the intersection of robust system design
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitasthana1&bg_color=transparent&color=8b949e&line=6366f1&point=ffffff&area=true&area_color=3730a3&hide_border=true&custom_title=System%20Commits%20Timeline" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
 </div>
 
 <br/>
