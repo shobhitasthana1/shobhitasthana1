@@ -160,7 +160,7 @@ I enjoy transforming ideas into clean, responsive, and high-performance digital 
 <td align="center"><img src="https://cdn.simpleicons.org/postman/38BDF8" width="40" height="40" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/visualstudiocode/38BDF8" width="40" height="40" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/25044327?v=4" width="40" height="40" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/vercel/38BDF8" width="40" height="40" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
 </tr>
 <tr>
