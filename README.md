@@ -222,16 +222,22 @@ I care about clean architecture, performance, and interfaces that feel considere
 
 Every contribution becomes part of a live arcade experience.
 
-My GitHub activity is automatically transformed into an animated **Pac-Man** contribution graph that updates daily through GitHub Actions, making the visualization reflect my latest development activity.
+My GitHub activity is automatically transformed into an animated **Pac-Man** contribution graph that is regenerated daily through GitHub Actions, ensuring it always reflects my latest development activity.
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/dist/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/dist/pacman-contribution-graph.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/pacman-contribution-graph.svg"
+  />
   <img
     alt="Animated Pac-Man GitHub Contribution Graph"
-    src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/dist/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/pacman-contribution-graph.svg"
     width="100%"
   />
 </picture>
@@ -240,7 +246,7 @@ My GitHub activity is automatically transformed into an animated **Pac-Man** con
 
 <sub>
 🟡 Contribution Days &nbsp;•&nbsp;
-👻 Arcade Animation &nbsp;•&nbsp;
+👾 Arcade Animation &nbsp;•&nbsp;
 ⚡ Auto Updated Daily
 </sub>
 
@@ -254,11 +260,17 @@ My GitHub activity is automatically transformed into an animated **Pac-Man** con
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/dist/breakout-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/dist/breakout-contribution-graph.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/breakout-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/breakout-contribution-graph.svg"
+  />
   <img
     alt="Animated Breakout GitHub Contribution Graph"
-    src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/dist/breakout-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/shobhitasthana1/shobhitasthana1/output/breakout-contribution-graph.svg"
     width="100%"
   />
 </picture>
