@@ -1,0 +1,51 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="64" y2="64">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#3730A3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect
+    x="2"
+    y="2"
+    width="60"
+    height="60"
+    rx="16"
+    fill="#0F172A"
+    stroke="url(#gradient)"
+    stroke-width="2"/>
+
+  <!-- Left Code Bracket -->
+  <path
+    d="M20 20L14 32L20 44"
+    stroke="url(#gradient)"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- Right Code Bracket -->
+  <path
+    d="M44 20L50 32L44 44"
+    stroke="url(#gradient)"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- Head -->
+  <circle
+    cx="32"
+    cy="24"
+    r="5"
+    fill="#F8FAFC"/>
+
+  <!-- Body -->
+  <path
+    d="M24 42C24 36.5 27.5 33 32 33C36.5 33 40 36.5 40 42"
+    stroke="#F8FAFC"
+    stroke-width="2.5"
+    stroke-linecap="round"/>
+
+</svg>
