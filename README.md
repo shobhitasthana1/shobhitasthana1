@@ -30,47 +30,71 @@
 <br/>
 
 ---
-
-## <img src="./assets/icons/icon-about.svg" width="20" align="center"/>&nbsp; About
+## <img src="./assets/icons/icon-about.svg" width="24" align="center"/> About Me
 
 Hi, I'm **Shobhit Asthana**, a Creative Frontend & Full-Stack Developer from India.
 
 I enjoy building modern web experiences that combine beautiful design, smooth interactions, and strong engineering. My focus is creating products that are fast, scalable, and enjoyable to use.
 
+<br>
+
 <table>
-<tr>
-<td valign="top">
-
-<img src="./assets/icons/icon-ui.svg" width="18" align="center"/>&nbsp;
-Building creative frontend experiences inspired by modern award-winning websites with smooth animations and immersive interactions.
-
-<br/><br/>
-
-<img src="./assets/icons/icon-code.svg" width="18" align="center"/>&nbsp;
-Developing complete full-stack applications using React, Next.js, Node.js, Express, MongoDB, and modern backend technologies.
-
-<br/><br/>
-
-<img src="./assets/icons/icon-animation.svg" width="18" align="center"/>&nbsp;
-Creating high-quality UI animations with GSAP, Three.js, React Three Fiber, Framer Motion, and Lenis.
-
-<br/><br/>
-
-<img src="./assets/icons/icon-responsive.svg" width="18" align="center"/>&nbsp;
-Designing responsive interfaces that deliver a seamless experience across desktop, tablet, and mobile devices.
-
-<br/><br/>
-
-<img src="./assets/icons/icon-performance.svg" width="18" align="center"/>&nbsp;
-Writing clean, scalable, and maintainable code with a strong focus on performance and user experience.
-
-<br/><br/>
-
-<img src="./assets/icons/icon-ai.svg" width="18" align="center"/>&nbsp;
-Continuously exploring AI, modern frontend technologies, and new ways to build better digital products.
-
-</td>
-</tr>
+  <tbody>
+    <tr>
+      <td width="5%" align="center" valign="top">
+        <br>
+        <img src="./assets/icons/icon-ui.svg" width="20" />
+      </td>
+      <td width="95%">
+        <strong>Immersive UI:</strong> Building creative frontend experiences inspired by modern award-winning websites with smooth animations and immersive interactions.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <img src="./assets/icons/icon-code.svg" width="20" />
+      </td>
+      <td>
+        <strong>Full-Stack Architecture:</strong> Developing complete full-stack applications using React, Next.js, Node.js, Express, MongoDB, and modern backend technologies.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <img src="./assets/icons/icon-animation.svg" width="20" />
+      </td>
+      <td>
+        <strong>Premium Motion:</strong> Creating high-quality UI animations with GSAP, Three.js, React Three Fiber, Framer Motion, and Lenis.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <img src="./assets/icons/icon-responsive.svg" width="20" />
+      </td>
+      <td>
+        <strong>Responsive Design:</strong> Designing responsive interfaces that deliver a seamless experience across desktop, tablet, and mobile devices.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <img src="./assets/icons/icon-performance.svg" width="20" />
+      </td>
+      <td>
+        <strong>Scalable Code:</strong> Writing clean, scalable, and maintainable code with a strong focus on performance and user experience.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <br>
+        <img src="./assets/icons/icon-ai.svg" width="20" />
+      </td>
+      <td>
+        <strong>Future-Focused:</strong> Continuously exploring AI, modern frontend technologies, and new ways to build better digital products.
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
