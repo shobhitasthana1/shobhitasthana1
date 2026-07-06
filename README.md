@@ -178,3 +178,137 @@ I enjoy transforming ideas into clean, responsive, and high-performance digital 
 </table>
 
 </div>
+
+
+
+<!-- Projects -->
+<!-- 
+---
+
+## <img src="./assets/icons/icon-projects.svg" width="22"/> Featured Projects
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="YOUR_GYM_LIVE_LINK">
+<img src="./assets/projects/gym.webp" width="100%" alt="Gym Management Website"/>
+</a>
+
+### 🏋️ Gym Management Website
+
+A modern full-stack gym management platform built for gym owners and members.
+
+**Highlights**
+
+- Admin & Member Dashboard
+- Attendance Management
+- Workout & Diet Plans
+- Payment Tracking
+- Responsive UI
+- Firebase Integration
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Firebase`
+
+<p>
+<a href="YOUR_GYM_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_GYM_REPO">
+<img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="YOUR_SOLAR_LIVE_LINK">
+<img src="./assets/projects/soi-solar.webp" width="100%" alt="SOI Solar Website"/>
+</a>
+
+### ☀️ SOI Solar Website
+
+A modern business website designed for a solar energy company with a strong focus on clean UI and performance.
+
+**Highlights**
+
+- Responsive Design
+- Service Showcase
+- Modern Landing Page
+- Contact Section
+- Performance Optimized
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<p>
+<a href="YOUR_SOLAR_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_SOLAR_REPO">
+<img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="YOUR_STORE_LIVE_LINK">
+<img src="./assets/projects/shobhitdev-store.webp" width="100%" alt="ShobhitDev Store"/>
+</a>
+
+### 🛒 ShobhitDev Store
+
+A modern frontend e-commerce experience with responsive layouts and reusable UI components.
+
+**Highlights**
+
+- Product Showcase
+- Responsive Design
+- Modern UI
+- Optimized Layout
+- Clean User Experience
+
+**Tech Stack**
+
+`React` `JavaScript` `CSS`
+
+<p>
+<a href="YOUR_STORE_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_STORE_REPO">
+<img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="middle" align="center">
+
+<h3>🚀 More Projects Coming Soon</h3>
+
+<p>
+I'm continuously building new full-stack applications, creative frontend experiences, and AI-powered products.
+</p>
+
+<img src="https://img.shields.io/badge/Stay_Tuned-6366F1?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+ -->
