@@ -186,17 +186,32 @@ I care about clean architecture, performance, and interfaces that feel considere
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shobhit-asthana-911799315/">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<sub>Open to interesting conversations, collaborations, and opportunities</sub>
+
+<br/><br/>
+
+<table cellspacing="10" cellpadding="0" border="0">
+<tr>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/shobhit-asthana/">
+<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1"/>
 </a>
+</td>
+
+<td align="center">
 <a href="https://github.com/shobhitasthana1">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22"/>
 </a>
-<a href="https://x.com/ShobhitAsthanaa">
-<img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+</td>
+
+<td align="center">
 <a href="mailto:shobhitasthana123@gmail.com">
-<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6366F1"/>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
