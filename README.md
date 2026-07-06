@@ -149,7 +149,9 @@ I care about clean architecture, performance, and interfaces that feel considere
 <!-- TOOLS -->
 <td valign="top" width="25%">
 
-<div align="center"><img src="https://img.shields.io/badge/&nbsp;-38BDF8?style=for-the-badge&logoColor=white"/></div>
+<div align="center"><div align="center">
+<img src="https://img.shields.io/badge/DEV%20TOOLS-38BDF8?style=for-the-badge&logoColor=white"/>
+</div></div>
 
 <br/>
 
