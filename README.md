@@ -1,174 +1,173 @@
-<!-- Hero Section -->
-
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shobhit-asthana-911799315/">
-<img src="https://img.shields.io/badge/LinkedIn-3730A3?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/shobhitasthana1">
-<img src="https://img.shields.io/badge/GitHub-3730A3?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://shobhit-portfolio-nu.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-3730A3?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="mailto:shobhitasthana123@gmail.com">
-<img src="https://img.shields.io/badge/Email-3730A3?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-
-> Building scalable web applications and modern user experiences.
-
+<sub>Full-Stack Developer &nbsp;·&nbsp; Building fast, well-crafted web products</sub>
 </div>
 
----
-
-<!-- About section -->
-
-## <img src="./assets/icons/icon-about.svg" width="22" align="center"/> About Me
-
-I'm Shobhit Asthana, a Full-Stack Developer from India who enjoys building modern, scalable, and user-focused web applications.
-
-I primarily work with JavaScript, React, Node.js, Express, and MongoDB while continuously learning technologies like Next.js, Three.js, Docker, Redis, AWS, and AI.
-
-I enjoy transforming ideas into clean, responsive, and high-performance digital experiences with a strong focus on user experience and maintainable code.
+<br/>
 
 ---
 
-<!-- Technical Ecosystem -->
+## <img src="./assets/icons/icon-about.svg" width="20" align="center"/>&nbsp; About
+
+I'm Shobhit, a full-stack developer working mainly with React, Next.js, Node.js, and MongoDB.
+
+I care about clean architecture, performance, and interfaces that feel considered rather than assembled. Lately I've been spending more time with Three.js, Docker, and Redis, and exploring how AI fits into everyday product engineering.
+
+---
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/TECHNICAL_ECOSYSTEM-161B22?style=for-the-badge&labelColor=0D1117&color=161B22" alt="Technical Ecosystem" height="40"/>
-
-<sub>Core technologies used to design, build, and ship production-grade full-stack products</sub>
+<sub><b>TECHNICAL ECOSYSTEM</b></sub>
 
 <br/><br/>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
-<!-- ================= FRONTEND ================= -->
-<td align="center" valign="top" width="25%">
+<!-- FRONTEND -->
+<td valign="top" width="25%">
 
-<img src="https://img.shields.io/badge/FRONTEND-A78BFA?style=for-the-badge&logoColor=ffffff" alt="Frontend"/>
-<br/><br/>
+<div align="center"><img src="https://img.shields.io/badge/FRONTEND-A78BFA?style=for-the-badge&logoColor=white"/></div>
 
-<table cellspacing="0" cellpadding="6" border="0" width="100%">
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="8" border="0">
 <tr>
-<td align="center" width="50%"><img src="https://cdn.simpleicons.org/react/A78BFA" width="40" height="40" alt="React"/><br/><sub><b>React</b></sub></td>
-<td align="center" width="50%"><img src="https://cdn.simpleicons.org/nextdotjs/A78BFA" width="40" height="40" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="33%"><img src="https://cdn.simpleicons.org/react/A78BFA" width="30"/><br/><sub>React</sub></td>
+<td align="center" width="33%"><img src="https://cdn.simpleicons.org/nextdotjs/A78BFA" width="30"/><br/><sub>Next.js</sub></td>
+<td align="center" width="33%"><img src="https://cdn.simpleicons.org/typescript/A78BFA" width="30"/><br/><sub>TypeScript</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/javascript/A78BFA" width="40" height="40" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/typescript/A78BFA" width="40" height="40" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/javascript/A78BFA" width="30"/><br/><sub>JavaScript</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/html5/A78BFA" width="30"/><br/><sub>HTML5</sub></td>
+<td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" width="30"/><br/><sub>CSS3</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/html5/A78BFA" width="40" height="40" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-<td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" width="40" height="40" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/A78BFA" width="30"/><br/><sub>Tailwind</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/greensock/A78BFA" width="30"/><br/><sub>GSAP</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/threedotjs/A78BFA" width="30"/><br/><sub>Three.js</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/A78BFA" width="40" height="40" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/greensock/A78BFA" width="40" height="40" alt="GSAP"/><br/><sub><b>GSAP</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/framer/A78BFA" width="30"/><br/><sub>Framer</sub></td>
+<td align="center"><sub>React<br/>Three Fiber</sub></td>
+<td align="center"><sub>Locomotive<br/>Scroll</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/threedotjs/A78BFA" width="40" height="40" alt="Three.js"/><br/><sub><b>Three.js</b></sub></td>
-<td align="center"><img src="https://img.shields.io/badge/R3F-161B22?style=flat-square&labelColor=0D1117&color=A78BFA" alt="React Three Fiber"/><br/><sub><b>R3F</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/framer/A78BFA" width="40" height="40" alt="Framer Motion"/><br/><sub><b>Framer</b></sub></td>
-<td align="center"><img src="https://img.shields.io/badge/Locomotive-161B22?style=flat-square&labelColor=0D1117&color=A78BFA" alt="Locomotive Scroll"/><br/><sub><b>Locomotive</b></sub></td>
-</tr>
-<tr>
-<td align="center" colspan="2"><img src="https://img.shields.io/badge/Lenis-161B22?style=flat-square&labelColor=0D1117&color=A78BFA" alt="Lenis"/><br/><sub><b>Lenis</b></sub></td>
+<td align="center" colspan="3"><sub>Lenis</sub></td>
 </tr>
 </table>
 
 </td>
 
-<!-- ================= BACKEND ================= -->
-<td align="center" valign="top" width="25%">
+<!-- BACKEND -->
+<td valign="top" width="25%">
 
-<img src="https://img.shields.io/badge/BACKEND-34D399?style=for-the-badge&logoColor=ffffff" alt="Backend"/>
-<br/><br/>
+<div align="center"><img src="https://img.shields.io/badge/BACKEND-34D399?style=for-the-badge&logoColor=white"/></div>
 
-<table cellspacing="0" cellpadding="6" border="0" width="100%">
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="8" border="0">
 <tr>
-<td align="center" width="50%"><img src="https://cdn.simpleicons.org/nodedotjs/34D399" width="40" height="40" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center" width="50%"><img src="https://cdn.simpleicons.org/express/34D399" width="40" height="40" alt="Express.js"/><br/><sub><b>Express</b></sub></td>
+<td align="center" width="50%"><img src="https://cdn.simpleicons.org/nodedotjs/34D399" width="30"/><br/><sub>Node.js</sub></td>
+<td align="center" width="50%"><img src="https://cdn.simpleicons.org/express/34D399" width="30"/><br/><sub>Express</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/REST-161B22?style=flat-square&labelColor=0D1117&color=34D399" alt="REST API"/><br/><sub><b>REST API</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/jsonwebtokens/34D399" width="40" height="40" alt="JWT"/><br/><sub><b>JWT</b></sub></td>
+<td align="center"><sub>REST API</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/jsonwebtokens/34D399" width="30"/><br/><sub>JWT</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/socketdotio/34D399" width="40" height="40" alt="Socket.io"/><br/><sub><b>Socket.io</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/firebase/34D399" width="40" height="40" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/socketdotio/34D399" width="30"/><br/><sub>Socket.io</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/firebase/34D399" width="30"/><br/><sub>Firebase</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/supabase/34D399" width="40" height="40" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/prisma/34D399" width="40" height="40" alt="Prisma"/><br/><sub><b>Prisma</b></sub></td>
-</tr>
-</table>
-
-</td>
-
-<!-- ================= DATABASE ================= -->
-<td align="center" valign="top" width="25%">
-
-<img src="https://img.shields.io/badge/DATABASE-FB923C?style=for-the-badge&logoColor=ffffff" alt="Database"/>
-<br/><br/>
-
-<table cellspacing="0" cellpadding="6" border="0" width="100%">
-<tr>
-<td align="center" width="50%"><img src="https://cdn.simpleicons.org/mongodb/FB923C" width="40" height="40" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
-<td align="center" width="50%"><img src="https://cdn.simpleicons.org/mysql/FB923C" width="40" height="40" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.simpleicons.org/postgresql/FB923C" width="40" height="40" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/redis/FB923C" width="40" height="40" alt="Redis"/><br/><sub><b>Redis</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/supabase/34D399" width="30"/><br/><sub>Supabase</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/prisma/34D399" width="30"/><br/><sub>Prisma</sub></td>
 </tr>
 </table>
 
 </td>
 
-<!-- ================= TOOLS ================= -->
-<td align="center" valign="top" width="25%">
+<!-- DATABASE -->
+<td valign="top" width="25%">
 
-<img src="https://img.shields.io/badge/TOOLS-38BDF8?style=for-the-badge&logoColor=ffffff" alt="Tools"/>
-<br/><br/>
+<div align="center"><img src="https://img.shields.io/badge/DATABASE-FB923C?style=for-the-badge&logoColor=white"/></div>
 
-<table cellspacing="0" cellpadding="6" border="0" width="100%">
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="8" border="0">
 <tr>
-<td align="center" width="50%"><img src="https://cdn.simpleicons.org/git/38BDF8" width="40" height="40" alt="Git"/><br/><sub><b>Git</b></sub></td>
-<td align="center" width="50%"><img src="https://cdn.simpleicons.org/github/38BDF8" width="40" height="40" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="50%"><img src="https://cdn.simpleicons.org/mongodb/FB923C" width="30"/><br/><sub>MongoDB</sub></td>
+<td align="center" width="50%"><img src="https://cdn.simpleicons.org/mysql/FB923C" width="30"/><br/><sub>MySQL</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/docker/38BDF8" width="40" height="40" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/postman/38BDF8" width="40" height="40" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/postgresql/FB923C" width="30"/><br/><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/redis/FB923C" width="30"/><br/><sub>Redis</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/TOOLS-38BDF8?style=for-the-badge&logoColor=white"/>
+</div>
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="8" border="0">
+<tr>
+<td align="center" width="50%"><img src="https://cdn.simpleicons.org/git/38BDF8" width="30"/><br/><sub>Git</sub></td>
+<td align="center" width="50%"><img src="https://cdn.simpleicons.org/github/38BDF8" width="30"/><br/><sub>GitHub</sub></td>
+</tr>
+</table>
+
+</td>
+
+<!-- TOOLS -->
+<td valign="top" width="25%">
+
+<div align="center"><img src="https://img.shields.io/badge/&nbsp;-38BDF8?style=for-the-badge&logoColor=white"/></div>
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="8" border="0">
+<tr>
+<td align="center" width="50%"><img src="https://cdn.simpleicons.org/docker/38BDF8" width="30"/><br/><sub>Docker</sub></td>
+<td align="center" width="50%"><img src="https://cdn.simpleicons.org/postman/38BDF8" width="30"/><br/><sub>Postman</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/25044327?v=4" width="40" height="40" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/vercel/38BDF8" width="40" height="40" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/25044327?v=4" width="30"/><br/><sub>VS Code</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/vercel/38BDF8" width="30"/><br/><sub>Vercel</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/figma/38BDF8" width="40" height="40" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/linux/38BDF8" width="40" height="40" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/figma/38BDF8" width="30"/><br/><sub>Figma</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/linux/38BDF8" width="30"/><br/><sub>Linux</sub></td>
 </tr>
 <tr>
-<td align="center" colspan="2"><img src="https://cdn.simpleicons.org/npm/38BDF8" width="40" height="40" alt="NPM"/><br/><sub><b>NPM</b></sub></td>
+<td align="center" colspan="2"><img src="https://cdn.simpleicons.org/npm/38BDF8" width="30"/><br/><sub>NPM</sub></td>
 </tr>
 </table>
 
@@ -179,159 +178,34 @@ I enjoy transforming ideas into clean, responsive, and high-performance digital 
 
 </div>
 
-
-
-<!-- Projects -->
-<!-- 
 ---
 
-## <img src="./assets/icons/icon-projects.svg" width="22"/> Featured Projects
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<a href="YOUR_GYM_LIVE_LINK">
-<img src="./assets/projects/gym.webp" width="100%" alt="Gym Management Website"/>
-</a>
-
-### 🏋️ Gym Management Website
-
-A modern full-stack gym management platform built for gym owners and members.
-
-**Highlights**
-
-- Admin & Member Dashboard
-- Attendance Management
-- Workout & Diet Plans
-- Payment Tracking
-- Responsive UI
-- Firebase Integration
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Firebase`
-
-<p>
-<a href="YOUR_GYM_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_GYM_REPO">
-<img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<a href="YOUR_SOLAR_LIVE_LINK">
-<img src="./assets/projects/soi-solar.webp" width="100%" alt="SOI Solar Website"/>
-</a>
-
-### ☀️ SOI Solar Website
-
-A modern business website designed for a solar energy company with a strong focus on clean UI and performance.
-
-**Highlights**
-
-- Responsive Design
-- Service Showcase
-- Modern Landing Page
-- Contact Section
-- Performance Optimized
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-<p>
-<a href="YOUR_SOLAR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_SOLAR_REPO">
-<img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<a href="YOUR_STORE_LIVE_LINK">
-<img src="./assets/projects/shobhitdev-store.webp" width="100%" alt="ShobhitDev Store"/>
-</a>
-
-### 🛒 ShobhitDev Store
-
-A modern frontend e-commerce experience with responsive layouts and reusable UI components.
-
-**Highlights**
-
-- Product Showcase
-- Responsive Design
-- Modern UI
-- Optimized Layout
-- Clean User Experience
-
-**Tech Stack**
-
-`React` `JavaScript` `CSS`
-
-<p>
-<a href="YOUR_STORE_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_STORE_REPO">
-<img src="https://img.shields.io/badge/Source_Code-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="middle" align="center">
-
-<h3>🚀 More Projects Coming Soon</h3>
-
-<p>
-I'm continuously building new full-stack applications, creative frontend experiences, and AI-powered products.
-</p>
-
-<img src="https://img.shields.io/badge/Stay_Tuned-6366F1?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
- -->
-
-
-<!-- GitHub Analytics -->
-
----
-
-## <img src="./assets/icons/icon-stats.svg" width="22"/> GitHub Analytics
+## <img src="./assets/icons/icon-stats.svg" width="20" align="center"/>&nbsp; GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shobhitasthana1&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=shobhitasthana1&hide_border=true&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shobhitasthana1&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=shobhitasthana1&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=C9D1D9"/>
 
 </div>
 
-<br>
+---
+
+## <img src="./assets/icons/icon-social.svg" width="20" align="center"/>&nbsp; Connect
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitasthana1&bg_color=00000000&color=C9D1D9&line=6366F1&point=FFFFFF&area=true&hide_border=true"/>
+<a href="https://www.linkedin.com/in/shobhit-asthana-911799315/">
+<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/shobhitasthana1">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://x.com/ShobhitAsthanaa">
+<img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="mailto:shobhitasthana123@gmail.com">
+<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
