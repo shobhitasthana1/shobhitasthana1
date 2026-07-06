@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <defs>
+    <linearGradient id="arcadeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="10" width="16" height="9" rx="2" fill="url(#arcadeGradient)"/>
+
+  <circle cx="9" cy="14.5" r="1.2" fill="white"/>
+  <circle cx="15.8" cy="13" r="0.9" fill="white"/>
+  <circle cx="18" cy="15.2" r="0.9" fill="white"/>
+
+  <rect x="11.3" y="4" width="1.4" height="7" rx="0.7" fill="url(#arcadeGradient)"/>
+  <circle cx="12" cy="3" r="2" fill="url(#arcadeGradient)"/>
+</svg>
