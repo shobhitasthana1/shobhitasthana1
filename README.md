@@ -242,8 +242,6 @@ I enjoy building modern web experiences that combine beautiful design, smooth in
 
 ---
 
----
-
 ## <img src="./assets/icons/icon-social.svg" width="24" align="center"/> Connect
 
 <div align="center">
