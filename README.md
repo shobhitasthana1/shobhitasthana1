@@ -34,12 +34,10 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="./assets/icons/icon-about.svg" width="22" align="center"/> About Me
 
-I'm Shobhit Asthana, a Full-Stack Developer from India with a strong interest in building modern, scalable, and user-friendly web applications.
+I'm Shobhit Asthana, a Full-Stack Developer from India who enjoys building modern, scalable, and user-focused web applications.
 
-- 🎓 MCA Student at Allenhouse Institute of Technology
-- 💻 Learning React, Node.js, and Full-Stack Development
-- 🚀 Passionate about frontend development, UI/UX, and performance
-- 🌱 Currently improving my problem-solving and backend skills
-- 📫 Reach me at: **shobhitasthana123@gmail.com**
+I primarily work with JavaScript, React, Node.js, Express, and MongoDB while continuously learning technologies like Next.js, Three.js, Docker, Redis, AWS, and AI.
+
+I enjoy transforming ideas into clean, responsive, and high-performance digital experiences with a strong focus on user experience and maintainable code.
