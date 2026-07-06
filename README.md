@@ -312,3 +312,26 @@ I'm continuously building new full-stack applications, creative frontend experie
 </tr>
 </table>
  -->
+
+
+<!-- GitHub Analytics -->
+
+---
+
+## <img src="./assets/icons/icon-stats.svg" width="22"/> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shobhitasthana1&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=shobhitasthana1&hide_border=true&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=C9D1D9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitasthana1&bg_color=00000000&color=C9D1D9&line=6366F1&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
