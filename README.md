@@ -215,3 +215,43 @@ I care about clean architecture, performance, and interfaces that feel considere
 </table>
 
 </div>
+
+---
+
+## 🕹️ Contribution Arcade
+
+Instead of a snake eating pixels, my commit history plays itself as a full
+**Pac-Man run** — every dot on the maze *is* a real contribution day, ghosts
+have their original arcade AI, and power-pellets light up on my highest-output
+days. It fully regenerates every day straight from live GitHub data, so it's
+always in sync — never a stale screenshot.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHOBHITASTHANA1/SHOBHITASTHANA1/output/dist/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHOBHITASTHANA1/SHOBHITASTHANA1/output/dist/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man arcade rendering of my GitHub contribution graph" src="https://raw.githubusercontent.com/SHOBHITASTHANA1/SHOBHITASTHANA1/output/dist/pacman-contribution-graph.svg" width="100%" />
+</picture>
+
+<sub>🟡 dots = contribution days · 💊 power pellets = my biggest days · 👻 ghosts run genuine Blinky / Pinky / Inky / Clyde chase logic · auto-regenerated daily via GitHub Actions</sub>
+
+</div>
+
+<details>
+<summary><b>▸ Bonus cabinet: Breakout mode</b> (same data, different game — click to expand)</summary>
+<br/>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHOBHITASTHANA1/SHOBHITASTHANA1/output/dist/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHOBHITASTHANA1/SHOBHITASTHANA1/output/dist/breakout-contribution-graph.svg" />
+  <img alt="Breakout arcade rendering of my GitHub contribution graph" src="https://raw.githubusercontent.com/SHOBHITASTHANA1/SHOBHITASTHANA1/output/dist/breakout-contribution-graph.svg" width="100%" />
+</picture>
+
+</div>
+</details>
+
+<br/>
+
+---
