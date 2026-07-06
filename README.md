@@ -103,7 +103,7 @@ I enjoy building modern web experiences that combine beautiful design, smooth in
 
 <sub><b>TECHNICAL ECOSYSTEM</b></sub>
 
-<br/><br/>
+<br/>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
@@ -242,36 +242,25 @@ I enjoy building modern web experiences that combine beautiful design, smooth in
 
 ---
 
-## <img src="./assets/icons/icon-social.svg" width="20" align="center"/>&nbsp; Connect
+---
+
+## <img src="./assets/icons/icon-social.svg" width="24" align="center"/> Connect
 
 <div align="center">
-
-<sub>Open to interesting conversations, collaborations, and opportunities</sub>
-
-<br/><br/>
-
-<table cellspacing="10" cellpadding="0" border="0">
-<tr>
-
-<td align="center">
-<a href="https://www.linkedin.com/in/shobhit-asthana/">
-<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/shobhitasthana1">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22"/>
-</a>
-</td>
-
-<td align="center">
-<a href="mailto:shobhitasthana123@gmail.com">
-<img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6366F1"/>
-</a>
-</td>
-
-</tr>
-</table>
-
+  <sub>Open to interesting conversations, collaborations, and opportunities.</sub>
+  <br><br>
+  
+  <a href="https://www.linkedin.com/in/shobhit-asthana/">
+    <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shobhitasthana1">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shobhitasthana123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6366F1" alt="Email"/>
+  </a>
 </div>
+
+---
