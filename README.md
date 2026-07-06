@@ -33,3 +33,13 @@
 </div>
 
 ---
+
+## 👨‍💻 About Me
+
+I'm Shobhit Asthana, a Full-Stack Developer from India with a strong interest in building modern, scalable, and user-friendly web applications.
+
+- 🎓 MCA Student at Allenhouse Institute of Technology
+- 💻 Learning React, Node.js, and Full-Stack Development
+- 🚀 Passionate about frontend development, UI/UX, and performance
+- 🌱 Currently improving my problem-solving and backend skills
+- 📫 Reach me at: **shobhitasthana123@gmail.com**
