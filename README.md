@@ -41,3 +41,15 @@ I'm Shobhit Asthana, a Full-Stack Developer from India who enjoys building moder
 I primarily work with JavaScript, React, Node.js, Express, and MongoDB while continuously learning technologies like Next.js, Three.js, Docker, Redis, AWS, and AI.
 
 I enjoy transforming ideas into clean, responsive, and high-performance digital experiences with a strong focus on user experience and maintainable code.
+
+---
+
+## <img src="./assets/icons/icon-tools.svg" width="22" align="center"/> Technical Ecosystem
+
+<div align="center">
+
+| Frontend | Backend | Database | Tools |
+|:---------:|:-------:|:--------:|:-----:|
+| React<br>Next.js<br>JavaScript<br>HTML5<br>CSS3<br>Tailwind CSS | Node.js<br>Express.js<br>REST APIs<br>JWT<br>Socket.io | MongoDB<br>MySQL<br>Redis | Git<br>GitHub<br>Docker<br>Postman<br>VS Code |
+
+</div>
