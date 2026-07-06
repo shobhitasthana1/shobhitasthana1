@@ -33,9 +33,45 @@
 
 ## <img src="./assets/icons/icon-about.svg" width="20" align="center"/>&nbsp; About
 
-I'm Shobhit, a full-stack developer working mainly with React, Next.js, Node.js, and MongoDB.
+Hi, I'm **Shobhit Asthana**, a Creative Frontend & Full-Stack Developer from India.
 
-I care about clean architecture, performance, and interfaces that feel considered rather than assembled. Lately I've been spending more time with Three.js, Docker, and Redis, and exploring how AI fits into everyday product engineering.
+I enjoy building modern web experiences that combine beautiful design, smooth interactions, and strong engineering. My focus is creating products that are fast, scalable, and enjoyable to use.
+
+<table>
+<tr>
+<td valign="top">
+
+<img src="./assets/icons/icon-ui.svg" width="18" align="center"/>&nbsp;
+Building creative frontend experiences inspired by modern award-winning websites with smooth animations and immersive interactions.
+
+<br/><br/>
+
+<img src="./assets/icons/icon-code.svg" width="18" align="center"/>&nbsp;
+Developing complete full-stack applications using React, Next.js, Node.js, Express, MongoDB, and modern backend technologies.
+
+<br/><br/>
+
+<img src="./assets/icons/icon-animation.svg" width="18" align="center"/>&nbsp;
+Creating high-quality UI animations with GSAP, Three.js, React Three Fiber, Framer Motion, and Lenis.
+
+<br/><br/>
+
+<img src="./assets/icons/icon-responsive.svg" width="18" align="center"/>&nbsp;
+Designing responsive interfaces that deliver a seamless experience across desktop, tablet, and mobile devices.
+
+<br/><br/>
+
+<img src="./assets/icons/icon-performance.svg" width="18" align="center"/>&nbsp;
+Writing clean, scalable, and maintainable code with a strong focus on performance and user experience.
+
+<br/><br/>
+
+<img src="./assets/icons/icon-ai.svg" width="18" align="center"/>&nbsp;
+Continuously exploring AI, modern frontend technologies, and new ways to build better digital products.
+
+</td>
+</tr>
+</table>
 
 ---
 
