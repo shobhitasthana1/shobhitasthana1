@@ -77,7 +77,7 @@ I enjoy transforming ideas into clean, responsive, and high-performance digital 
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/html5/A78BFA" width="40" height="40" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/css3/A78BFA" width="40" height="40" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+<td align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" width="40" height="40" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/A78BFA" width="40" height="40" alt="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub></td>
