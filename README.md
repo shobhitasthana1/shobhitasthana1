@@ -180,17 +180,6 @@ I care about clean architecture, performance, and interfaces that feel considere
 
 ---
 
-## <img src="./assets/icons/icon-stats.svg" width="20" align="center"/>&nbsp; GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shobhitasthana1&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&icon_color=A78BFA"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=shobhitasthana1&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=C9D1D9"/>
-
-</div>
-
----
-
 ## <img src="./assets/icons/icon-social.svg" width="20" align="center"/>&nbsp; Connect
 
 <div align="center">
