@@ -1,0 +1,62 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="64" y2="64">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#3730A3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect
+    x="2"
+    y="2"
+    width="60"
+    height="60"
+    rx="16"
+    fill="#0F172A"
+    stroke="url(#gradient)"
+    stroke-width="2"/>
+
+  <!-- Left Code Bracket -->
+  <path
+    d="M16 22L10 32L16 42"
+    stroke="url(#gradient)"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- Right Code Bracket -->
+  <path
+    d="M48 22L54 32L48 42"
+    stroke="url(#gradient)"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- Slash -->
+  <path
+    d="M36 18L28 46"
+    stroke="#F8FAFC"
+    stroke-width="2.5"
+    stroke-linecap="round"/>
+
+  <!-- Small Gear -->
+  <circle
+    cx="32"
+    cy="32"
+    r="4"
+    stroke="#F8FAFC"
+    stroke-width="2"/>
+
+  <path d="M32 22V18" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M32 46V42" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M22 32H18" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M46 32H42" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round"/>
+
+  <path d="M25 25L22 22" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M39 39L42 42" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M39 25L42 22" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round"/>
+  <path d="M25 39L22 42" stroke="#F8FAFC" stroke-width="2" stroke-linecap="round"/>
+
+</svg>

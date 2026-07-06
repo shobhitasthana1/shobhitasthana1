@@ -1,0 +1,40 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="64" y2="64">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#3730A3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect
+    x="2"
+    y="2"
+    width="60"
+    height="60"
+    rx="16"
+    fill="#0F172A"
+    stroke="url(#gradient)"
+    stroke-width="2"/>
+
+  <!-- Chat Bubble -->
+  <path
+    d="M18 20C18 17.8 19.8 16 22 16H42C44.2 16 46 17.8 46 20V34C46 36.2 44.2 38 42 38H30L24 44V38H22C19.8 38 18 36.2 18 34V20Z"
+    stroke="#F8FAFC"
+    stroke-width="2.3"
+    stroke-linejoin="round"/>
+
+  <!-- Connection Nodes -->
+  <circle cx="25" cy="27" r="2" fill="#6366F1"/>
+  <circle cx="32" cy="27" r="2" fill="#818CF8"/>
+  <circle cx="39" cy="27" r="2" fill="#A5B4FC"/>
+
+  <!-- Connecting Line -->
+  <path
+    d="M25 27H39"
+    stroke="url(#gradient)"
+    stroke-width="2"
+    stroke-linecap="round"/>
+
+</svg>
