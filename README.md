@@ -1,3 +1,5 @@
+<!-- Hero Section -->
+
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 </div>
@@ -34,6 +36,8 @@
 
 ---
 
+<!-- About section -->
+
 ## <img src="./assets/icons/icon-about.svg" width="22" align="center"/> About Me
 
 I'm Shobhit Asthana, a Full-Stack Developer from India who enjoys building modern, scalable, and user-focused web applications.
@@ -44,6 +48,8 @@ I enjoy transforming ideas into clean, responsive, and high-performance digital 
 
 ---
 
+<!-- Technical Ecosystem -->
+
 ## <img src="./assets/icons/icon-tools.svg" width="22" align="center"/> Technical Ecosystem
 
 <div align="center">
@@ -53,3 +59,37 @@ I enjoy transforming ideas into clean, responsive, and high-performance digital 
 | React<br>Next.js<br>JavaScript<br>HTML5<br>CSS3<br>Tailwind CSS | Node.js<br>Express.js<br>REST APIs<br>JWT<br>Socket.io | MongoDB<br>MySQL<br>Redis | Git<br>GitHub<br>Docker<br>Postman<br>VS Code |
 
 </div>
+
+---
+
+<!-- Featured Projects -->
+
+## <img src="./assets/icons/icon-projects.svg" width="22" align="center"/> Featured Projects
+
+### 🚀 Shobhit Portfolio
+
+A modern developer portfolio featuring smooth animations, interactive UI, and responsive design.
+
+**Tech Stack:** React • Three.js • GSAP • Tailwind CSS
+
+**Links:** [Live Demo](https://shobhit-portfolio-nu.vercel.app/) • [Source Code](https://github.com/shobhitasthana1/shobhit-portfolio)
+
+---
+
+### 🛒 ShobhitDev Store
+
+A responsive e-commerce frontend with clean UI, reusable components, and an optimized shopping experience.
+
+**Tech Stack:** React • JavaScript • CSS
+
+**Links:** [Live Demo](https://shobhit-dev-store.vercel.app/) • [Source Code](https://github.com/shobhitasthana1/ShobhitDev-Store)
+
+---
+
+### 🤖 AI Interview Assistant
+
+An AI-powered interview platform with authentication and intelligent interview workflows.
+
+**Tech Stack:** Next.js • Node.js • MongoDB
+
+**Links:** Coming Soon
