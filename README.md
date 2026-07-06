@@ -133,8 +133,8 @@ I enjoy building modern web experiences that combine beautiful design, smooth in
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/framer/A78BFA" width="30"/><br/><sub>Framer</sub></td>
-<td align="center"><sub>React<br/>Three Fiber</sub></td>
-<td align="center"><sub>Locomotive<br/>Scroll</sub></td>
+<td align="center"><img src="https://sbcode.net/react-three-fiber/img/r3f-pack-logo-256x256.png" width="30"/><br/><sub>React<br/>Three Fiber</sub></td>
+<td align="center"><img src="https://cdn-icons-png.flaticon.com/512/8678/8678323.png" width="30"/><br/><sub>Locomotive<br/>Scroll</sub></td>
 </tr>
 <tr>
 <td align="center" colspan="3"><sub>Lenis</sub></td>
